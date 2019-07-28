@@ -1,0 +1,14 @@
+{
+    "subscription_id": "0cf23af1-cdf8-4a2e-a416-42b5a92aa556",
+    "resource_group_name": "howard_finalproject",
+    "storage_account_name": "howard96",
+    "storage_account_key": "/Nrw6y5G2enkeRMyxDOR3zbi08/quhTQVAkLDIKEHvvoYjMHz1EpGN2fL6eozWbloWDKPZN9w9eFOttVo8RPmw==",
+    "file_share_name": "finalproject",
+    "batch_account_name": "howard96",
+    "batch_account_key": "+I0WbBiPK6b4YdHYXKnQBQUCzmL9YjTCjlvCOZovO10Wm5Zx4I2m8VgVkMwS5P9Umvt0WIon2Y5VtcbUQbmWQg==",
+    "batch_account_url": "https://howard96.uksouth.batch.azure.com",
+    "batch_job_user_name": "howard96",
+    "batch_job_user_password": "123",
+    "batch_pool_name": "howard96vms",
+    "batch_pool_size": 3
+}
